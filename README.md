@@ -1,6 +1,6 @@
 # SNMP Zabbix Sender
 
-Powershell script, který s využitím utility [Zabbix Sender] (https://www.zabbix.com/documentation/3.4/manual/concepts/sender) bude odesílat SNMP informace v .json formátu do Zabbix serveru.
+Powershell script, který s využitím utility Zabbix Sender (https://www.zabbix.com/documentation/3.4/manual/concepts/sender) bude odesílat SNMP informace v .json formátu do Zabbix serveru.
 
 * Podporované OS
   * Windows 10 Enterprise LTSB Upgrade 2016

@@ -12,3 +12,9 @@ Powershell script, který s využitím utility Zabbix Sender (https://www.zabbix.co
   * konfigurace ve dvou .json souborech, v prvním monitorované ip adresy a adresa zabbix serveru, ve druhém SNMP OID, které se sledují.
   * možnost soubežného behu více skriptu
   * krome binárního souboru **zabbix_sender.exe** využít **pouze** Powershell a jeho cmdlety. 
+
+#1
+
+#2
+
+#3
